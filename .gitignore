@@ -1,0 +1,5 @@
+assignment*/*.zip
+assignment*/util
+assignment*/*.png
+assignment*/.ipynb_checkpoints
+.ipynb_checkpoints
